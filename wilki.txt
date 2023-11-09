@@ -1,0 +1,29 @@
+Mateusz,2015,false,Gryfindor,3
+Aleks,2022,true,Gryfindor,2
+Tomasz,2010,false,Gryfindor,1
+Aleksandra,2021,true,0
+Karolina,2017,false,5
+KarolinaMłodaWadera0,2020,true,0
+KarolinaMłodaWadera1,2022,true,0
+KarolinaMłodyWilk2,2027,true,brak stada,0
+KarolinaMłodyWilk3,2020,true,brak stada,0
+KarolinaMłodyWilk4,2024,true,brak stada,0
+Alicja,2013,false,0
+Julian,2018,false,Sliterin,3
+Patryk,2020,true,Sliterin,2
+Andrzej,2008,false,Sliterin,1
+Patrycja,2021,true,0
+Eugenia,2016,false,5
+EugeniaMłodaWadera0,2022,true,0
+EugeniaMłodaWadera1,2018,true,0
+EugeniaMłodaWadera2,2023,true,0
+EugeniaMłodyWilk3,2019,true,brak stada,0
+EugeniaMłodyWilk4,2025,true,brak stada,0
+Zofia,2012,false,7
+ZofiaMłodaWadera0,2017,true,0
+ZofiaMłodaWadera1,2021,true,0
+ZofiaMłodyWilk2,2015,true,brak stada,0
+ZofiaMłodyWilk3,2014,true,brak stada,0
+ZofiaMłodyWilk4,2018,true,brak stada,0
+ZofiaMłodyWilk5,2015,true,brak stada,0
+ZofiaMłodyWilk6,2014,true,brak stada,0
